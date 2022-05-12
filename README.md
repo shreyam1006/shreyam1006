@@ -1,11 +1,11 @@
 <h1 >Hi 👋, I'm Shreya</h1>
 <h4 >I'm a Web Developer with robust problem-solving skills and an analytical mindset. Enthusiastic about solving real-world problems and making this world a better place. I write blogs on Web Development, Machine Learning and Deep Learning </h4>
 
-- 🔭 I’m currently working on [@Fifo.im](https://fifo.im/home) in [@GlueLabs](https://www.gluelabs.com)
+- 🔭 I’m currently working on [@Fifo.im](https://fifo.im/home) at [@GlueLabs](https://www.gluelabs.com)
 
 - 🌱 I’m currently learning **NLP using Python**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@shreya.maheshwari.2000)
+- 📝 I regularly write articles on [Medium](https://medium.com/@shreya.maheshwari.2000) and [@Fifo.im](https://fifo.im/home)
 
 - 💬 Ask me about **reactjs , reduxjs**
 
