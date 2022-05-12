@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[A Road to SVM](https://medium.com/@shreyam1006/a-road-to-support-vector-machines-bfb22727c2d4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
