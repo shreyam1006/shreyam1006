@@ -15,7 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[A Road to SVM](https://medium.com/@shreyam1006/a-road-to-support-vector-machines-bfb22727c2d4)
+- [A Road to Support Vector Machines](https://medium.com/@shreyam1006/a-road-to-support-vector-machines-bfb22727c2d4)
+- [Build a CMS using Nextjs and Strapi](https://medium.com/@shreyam1006/build-a-cms-using-strapi-and-next-js-2ac1ba4ce1ff)
+- [React(ing) my way into Web Development](https://medium.com/@shreyam1006/react-ing-my-way-into-web-development-fe0bebd5cc46)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
