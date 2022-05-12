@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **shreya.maheshwari.2000@gmail.com**
 
-- 📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1oN0fziu2LaINLgH8ygOfbxQAK5Inule7/view?usp=sharing)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Road to Support Vector Machines](https://medium.com/@shreya.maheshwari.2000/a-road-to-support-vector-machines-bfb22727c2d4)
