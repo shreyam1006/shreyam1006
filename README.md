@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">I am a Web Developer who is enthusiastic about finding software solutions to problems. I write blogs on Web development, ML and DL.</h3>
+<h1 >Hi 👋, I'm Shreya</h1>
+<h4 >I am a Web Developer who is enthusiastic about finding software solutions to problems. I write blogs on Web development, ML and DL.</h4>
 
 - 🔭 I’m currently working on [@Fifo.im](https://fifo.im/home)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreya.maheshwari.2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oN0fziu2LaINLgH8ygOfbxQAK5Inule7/view?usp=sharing](https://drive.google.com/file/d/1oN0fziu2LaINLgH8ygOfbxQAK5Inule7/view?usp=sharing)
+- 📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1oN0fziu2LaINLgH8ygOfbxQAK5Inule7/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
