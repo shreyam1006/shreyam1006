@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Shreya</h1>
-<h4 >I'm a Web Developer with robust problem-solving skills and an analytical mindset. Enthusiastic about solving real-world problems and making this world a better place. I write blogs on </h4>[Web Development, Machine Learning and Deep Learning](https://medium.com/@shreyam1006)
+<h4 >I'm a Web Developer with robust problem-solving skills and an analytical mindset. Enthusiastic about solving real-world problems and making this world a better place. I write blogs on Web Development, Machine Learning and Deep Learning </h4>
 
 - 🔭 I’m currently working on [@Fifo.im](https://fifo.im/home) in [@GlueLabs](https://www.gluelabs.com)
 
