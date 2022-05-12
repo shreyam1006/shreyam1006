@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP using Python**
 
-- 📝 I regularly write articles on [https://medium.com/@shreyam1006](https://medium.com/@shreyam1006)
+- 📝 I regularly write articles on [Medium](https://medium.com/@shreya.maheshwari.2000)
 
 - 💬 Ask me about **reactjs , reduxjs**
 
@@ -15,16 +15,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A Road to Support Vector Machines](https://medium.com/@shreyam1006/a-road-to-support-vector-machines-bfb22727c2d4)
-- [Build a CMS using Nextjs and Strapi](https://medium.com/@shreyam1006/build-a-cms-using-strapi-and-next-js-2ac1ba4ce1ff)
-- [React(ing) my way into Web Development](https://medium.com/@shreyam1006/react-ing-my-way-into-web-development-fe0bebd5cc46)
+- [A Road to Support Vector Machines](https://medium.com/@shreya.maheshwari.2000/a-road-to-support-vector-machines-bfb22727c2d4)
+- [Build a CMS using Nextjs and Strapi](https://medium.com/@shreya.maheshwari.2000/build-a-cms-using-strapi-and-next-js-2ac1ba4ce1ff)
+- [React(ing) my way into Web Development](https://medium.com/@shreya.maheshwari.2000/react-ing-my-way-into-web-development-fe0bebd5cc46)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreyam1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyam1006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyam1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyam1006" height="30" width="40" /></a>
-<a href="https://medium.com/@shreyam1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyam1006" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyam2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyam2000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya-maheshwari-a59813173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyam1006" height="30" width="40" /></a>
+<a href="https://medium.com/@shreya.maheshwari.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyam1006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
