@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Shreya—a Web Developer with a passion for exploring both front-end and back-end frameworks.<br>🌟 I dive into cutting-edge technologies, whether it's a new JavaScript library or a robust back-end solution. I'm all in!<br>👯 Let's grab coffee over coding discussions. I'm always open to brainstorming and collaboration.<br>💬 Ask me about CSS, JavaScript, React, Next.js, Nestjs, NodeJs TypeScript, Tailwind CSS, SQL, and more. I'm here to help!<br>🤝 Connect with me at shreya.maheshwari.2000@gmail.com. Looking forward to exchanging ideas!<br>⚡ Fun fact: I enjoy traveling, art and experimenting with new hobbies.
+# 💫 Hi, I am Shreya Maheshwari!
+👋 Full-Stack Web Developer passionate about modern web technologies
+
+🌟 Expertise in:
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, NestJS, SQL
+
+📫 Let's connect: shreya.maheshwari.2000@gmail.com
+
+⚡ When not coding: Traveling, art & exploring new hobbies
 
 
 ## 🌐 Socials:
