@@ -11,9 +11,6 @@
     <p>📫 Let's connect: shreya.maheshwari.2000@gmail.com</p>
     <p>⚡ When not coding: Traveling, art & exploring new hobbies</p>
   </td>
-  <td>
-    <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEwNzM4NTksIm5iZiI6MTczMTA3MzU1OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA4VDEzNDU1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNGQwNDY1OTQ5ODlhMmUxNjhmM2ZhNmZhNDBiNDI0N2E3YjZmNGI2OWYyNjExYWY4ODQ5ZDFiNWNhYjQxYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tCUHEwsfYVTY-BTv1NwKcz0DU_n9K1qk30arsQsxksg" width="200"/>
-  </td>
 </tr>
 </table>
 
